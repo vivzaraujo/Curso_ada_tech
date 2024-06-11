@@ -1,0 +1,201 @@
+Nome,Idade,Cargo,Salário,Endereço,Departamento
+Carlos,45,Gerente,6107,"Rua B, 250",Vendas
+João,43,Coordenador,11429,"Rua B, 503",TI
+Ana,40,Coordenador,9910,"Rua B, 489",Vendas
+Ana,49,Gerente,12497,"Rua E, 904",Administração
+Rafael,23,Diretor,3021,"Rua E, 695",Administração
+Roberto,55,Diretor,9573,"Rua E, 227",TI
+Ana,59,Desenvolvedor,4253,"Rua C, 584",TI
+Carlos,29,Desenvolvedor,9102,"Rua D, 873",Vendas
+Pedro,29,Coordenador,11592,"Rua C, 448",Vendas
+Luiza,43,Gerente,12198,"Rua B, 560",Produção
+Rafael,23,Gerente,6191,"Rua D, 254",Vendas
+Juliana,46,Analista,12893,"Rua A, 853",Vendas
+Fernanda,23,Analista,11063,"Rua D, 183",Recursos Humanos
+Fernanda,51,Coordenador,4734,"Rua B, 235",TI
+Maria,29,Desenvolvedor,9540,"Rua B, 280",Vendas
+Juliana,30,Diretor,6418,"Rua B, 692",Recursos Humanos
+Rafael,47,Engenheiro,11778,"Rua B, 513",Vendas
+Rafael,27,Especialista,8046,"Rua A, 100",TI
+Fernanda,59,Diretor,10246,"Rua D, 827",Produção
+Maria,41,Coordenador,12022,"Rua A, 819",Administração
+Carlos,53,Gerente,12800,"Rua C, 942",TI
+Roberto,54,Analista,6205,"Rua D, 864",TI
+Fernanda,54,Desenvolvedor,8290,"Rua C, 743",Recursos Humanos
+Roberto,44,Gerente,7547,"Rua C, 673",Recursos Humanos
+Luiza,53,Desenvolvedor,9282,"Rua C, 423",Recursos Humanos
+Ana,25,Desenvolvedor,7850,"Rua B, 244",Produção
+João,60,Coordenador,4337,"Rua D, 980",Recursos Humanos
+Ana,56,Analista,6547,"Rua E, 557",TI
+Carlos,20,Analista,3387,"Rua D, 696",Recursos Humanos
+João,31,Engenheiro,8245,"Rua B, 216",Vendas
+Pedro,54,Diretor,13958,"Rua D, 841",Vendas
+Ana,25,Gerente,6922,"Rua B, 867",Administração
+Fernanda,36,Engenheiro,4221,"Rua D, 924",Vendas
+Maria,28,Engenheiro,4924,"Rua D, 418",Administração
+Ana,21,Gerente,10185,"Rua C, 660",Vendas
+Ana,37,Engenheiro,11901,"Rua A, 245",Produção
+Ana,55,Especialista,11639,"Rua D, 985",Administração
+Rafael,47,Analista,3350,"Rua E, 621",Vendas
+João,60,Especialista,11856,"Rua A, 592",Administração
+Maria,56,Desenvolvedor,6715,"Rua E, 290",Administração
+Roberto,45,Diretor,11616,"Rua D, 179",Vendas
+Roberto,23,Engenheiro,7260,"Rua B, 842",TI
+João,59,Diretor,10738,"Rua D, 306",Recursos Humanos
+Luiza,55,Desenvolvedor,12393,"Rua C, 517",Administração
+Rafael,50,Diretor,6511,"Rua B, 328",Administração
+Ana,49,Especialista,13904,"Rua E, 939",Administração
+Pedro,53,Desenvolvedor,3673,"Rua D, 418",Recursos Humanos
+Rafael,38,Diretor,4938,"Rua D, 891",Administração
+Pedro,37,Analista,11033,"Rua B, 959",Administração
+João,49,Engenheiro,11945,"Rua D, 466",Vendas
+João,40,Diretor,10303,"Rua A, 107",TI
+Luiza,22,Diretor,4973,"Rua E, 609",Produção
+Carlos,25,Especialista,13879,"Rua D, 890",Produção
+Carlos,57,Gerente,11529,"Rua D, 966",Recursos Humanos
+Juliana,32,Diretor,8277,"Rua B, 258",Produção
+Fernanda,22,Engenheiro,14788,"Rua C, 858",TI
+Luiza,47,Engenheiro,14894,"Rua E, 692",Produção
+Maria,41,Desenvolvedor,13030,"Rua A, 255",TI
+Luiza,59,Analista,14126,"Rua A, 659",TI
+Roberto,59,Diretor,10970,"Rua B, 595",Vendas
+Fernanda,31,Especialista,3115,"Rua A, 726",Produção
+Maria,42,Analista,8719,"Rua C, 623",Administração
+Maria,50,Analista,13876,"Rua D, 946",Recursos Humanos
+Rafael,37,Diretor,14438,"Rua E, 898",Administração
+Roberto,26,Especialista,13738,"Rua D, 190",Produção
+Roberto,27,Gerente,11043,"Rua B, 390",Produção
+Ana,38,Coordenador,11169,"Rua D, 666",Administração
+Juliana,48,Diretor,8696,"Rua C, 949",Vendas
+Rafael,39,Coordenador,6404,"Rua A, 775",Produção
+Pedro,49,Diretor,13825,"Rua E, 171",Vendas
+João,41,Analista,7242,"Rua C, 977",Recursos Humanos
+Ana,29,Diretor,5820,"Rua B, 927",Produção
+Carlos,45,Coordenador,4799,"Rua E, 724",Administração
+Roberto,52,Especialista,5691,"Rua D, 521",Vendas
+Luiza,47,Analista,12264,"Rua B, 168",Recursos Humanos
+Luiza,29,Diretor,14340,"Rua D, 537",TI
+Juliana,48,Especialista,9437,"Rua C, 113",Recursos Humanos
+Luiza,37,Gerente,12709,"Rua C, 201",Vendas
+Luiza,20,Desenvolvedor,12776,"Rua B, 887",Produção
+Ana,42,Diretor,9253,"Rua A, 975",Produção
+Luiza,36,Gerente,13194,"Rua B, 364",TI
+Luiza,56,Coordenador,13419,"Rua A, 964",Vendas
+Fernanda,50,Engenheiro,13801,"Rua B, 821",Produção
+Luiza,44,Gerente,14335,"Rua B, 297",Produção
+Ana,23,Desenvolvedor,14697,"Rua E, 480",Vendas
+Rafael,28,Gerente,7078,"Rua A, 200",Recursos Humanos
+Carlos,47,Engenheiro,8405,"Rua A, 485",Administração
+Carlos,49,Diretor,7611,"Rua C, 865",Recursos Humanos
+João,43,Gerente,11266,"Rua D, 257",Vendas
+Maria,52,Diretor,9634,"Rua C, 330",Recursos Humanos
+Carlos,39,Coordenador,14585,"Rua A, 604",Produção
+Roberto,28,Desenvolvedor,9007,"Rua E, 762",Vendas
+Ana,27,Engenheiro,6604,"Rua A, 130",Produção
+João,43,Gerente,6280,"Rua D, 355",Produção
+Carlos,33,Desenvolvedor,8162,"Rua D, 631",Produção
+João,37,Gerente,8618,"Rua B, 872",Recursos Humanos
+Maria,20,Especialista,3028,"Rua E, 760",Administração
+Pedro,31,Desenvolvedor,4434,"Rua C, 974",TI
+Luiza,48,Gerente,5903,"Rua E, 686",Administração
+Pedro,56,Coordenador,6252,"Rua B, 223",TI
+João,45,Engenheiro,9448,"Rua A, 551",Vendas
+Ana,52,Especialista,12830,"Rua D, 314",Administração
+Pedro,34,Engenheiro,11969,"Rua A, 416",TI
+João,42,Coordenador,10426,"Rua A, 841",Produção
+Rafael,48,Diretor,14636,"Rua B, 350",Vendas
+Carlos,40,Gerente,12077,"Rua C, 705",Administração
+Roberto,38,Coordenador,3612,"Rua A, 781",Recursos Humanos
+João,24,Coordenador,7186,"Rua D, 652",Vendas
+Pedro,42,Especialista,12284,"Rua D, 288",Produção
+Rafael,55,Especialista,11809,"Rua C, 309",Produção
+Pedro,39,Desenvolvedor,12738,"Rua C, 791",Produção
+Roberto,27,Coordenador,7108,"Rua B, 396",TI
+Pedro,28,Coordenador,8736,"Rua E, 159",Administração
+Ana,33,Diretor,13465,"Rua D, 590",Vendas
+Ana,25,Especialista,13661,"Rua A, 578",Administração
+Pedro,20,Especialista,7263,"Rua B, 641",Administração
+Ana,28,Analista,12120,"Rua C, 325",TI
+Luiza,35,Engenheiro,12594,"Rua A, 706",TI
+Maria,35,Desenvolvedor,14553,"Rua E, 338",Produção
+Pedro,31,Coordenador,12114,"Rua C, 777",Administração
+Roberto,24,Analista,3099,"Rua E, 482",TI
+Maria,59,Analista,10385,"Rua E, 316",Produção
+Luiza,48,Coordenador,5354,"Rua D, 372",Vendas
+Juliana,46,Diretor,13584,"Rua D, 967",TI
+Fernanda,30,Engenheiro,8908,"Rua E, 267",TI
+Pedro,47,Especialista,4608,"Rua D, 769",Vendas
+Ana,55,Especialista,8394,"Rua C, 608",Vendas
+João,38,Engenheiro,12112,"Rua E, 165",TI
+João,54,Engenheiro,10719,"Rua E, 891",Vendas
+Juliana,50,Especialista,14498,"Rua B, 300",Vendas
+João,38,Gerente,3284,"Rua B, 484",Produção
+Juliana,43,Especialista,14922,"Rua B, 187",TI
+Ana,21,Engenheiro,13541,"Rua B, 905",Vendas
+Ana,26,Diretor,14062,"Rua A, 467",Produção
+Fernanda,50,Coordenador,3000,"Rua B, 547",TI
+Fernanda,36,Desenvolvedor,13378,"Rua C, 510",TI
+Fernanda,46,Gerente,7803,"Rua A, 829",TI
+Pedro,55,Gerente,8851,"Rua C, 445",Vendas
+Ana,29,Coordenador,13681,"Rua B, 234",Vendas
+Pedro,33,Coordenador,5963,"Rua E, 316",Administração
+João,26,Desenvolvedor,12378,"Rua A, 603",Produção
+Fernanda,58,Especialista,5098,"Rua E, 563",Administração
+Fernanda,59,Engenheiro,7966,"Rua C, 201",Produção
+Ana,28,Diretor,5068,"Rua C, 397",Recursos Humanos
+Fernanda,33,Especialista,9827,"Rua A, 980",Administração
+Pedro,27,Desenvolvedor,13368,"Rua C, 143",TI
+Fernanda,36,Engenheiro,8604,"Rua A, 210",Recursos Humanos
+Luiza,42,Coordenador,9509,"Rua C, 553",Recursos Humanos
+Ana,35,Desenvolvedor,10874,"Rua E, 474",Recursos Humanos
+João,45,Especialista,11417,"Rua D, 851",Produção
+Luiza,28,Engenheiro,10820,"Rua B, 890",Vendas
+Ana,55,Coordenador,4807,"Rua B, 465",Vendas
+Juliana,26,Gerente,6190,"Rua D, 623",Recursos Humanos
+Roberto,37,Desenvolvedor,13391,"Rua D, 219",Vendas
+Fernanda,27,Analista,4932,"Rua A, 382",TI
+João,40,Gerente,6973,"Rua C, 660",Vendas
+Fernanda,45,Analista,3266,"Rua E, 299",Produção
+Carlos,22,Coordenador,14270,"Rua B, 339",Recursos Humanos
+Roberto,36,Analista,8382,"Rua D, 794",Administração
+João,43,Diretor,11806,"Rua D, 708",TI
+Roberto,44,Engenheiro,12557,"Rua D, 456",Administração
+Juliana,24,Coordenador,14646,"Rua C, 950",Recursos Humanos
+Carlos,56,Analista,5418,"Rua E, 699",Recursos Humanos
+Ana,43,Coordenador,9834,"Rua D, 505",Administração
+Maria,50,Diretor,14522,"Rua E, 610",Recursos Humanos
+Fernanda,45,Analista,10500,"Rua B, 614",Recursos Humanos
+João,40,Analista,7765,"Rua A, 364",Recursos Humanos
+Luiza,53,Gerente,8641,"Rua A, 366",Vendas
+Roberto,57,Analista,11819,"Rua B, 361",Vendas
+Juliana,43,Engenheiro,12160,"Rua A, 394",Produção
+Carlos,47,Analista,7485,"Rua D, 712",Administração
+Rafael,49,Coordenador,9772,"Rua C, 549",TI
+Fernanda,53,Diretor,11373,"Rua A, 729",Administração
+Fernanda,42,Desenvolvedor,5283,"Rua B, 671",Administração
+Roberto,27,Especialista,7289,"Rua C, 776",Produção
+Pedro,29,Engenheiro,14326,"Rua B, 361",Vendas
+Fernanda,20,Diretor,13572,"Rua D, 138",TI
+Juliana,39,Diretor,9732,"Rua B, 775",TI
+Juliana,56,Analista,3120,"Rua D, 188",Produção
+Roberto,37,Especialista,11717,"Rua A, 819",Recursos Humanos
+Maria,40,Desenvolvedor,3222,"Rua C, 440",Administração
+Juliana,23,Especialista,6676,"Rua E, 470",Administração
+Fernanda,21,Desenvolvedor,7332,"Rua C, 365",TI
+Fernanda,40,Diretor,13345,"Rua E, 232",Administração
+Ana,56,Especialista,14477,"Rua A, 124",TI
+Pedro,24,Coordenador,14782,"Rua B, 706",Vendas
+Ana,36,Desenvolvedor,6632,"Rua D, 486",Vendas
+Juliana,30,Desenvolvedor,12768,"Rua D, 951",TI
+Ana,60,Especialista,12114,"Rua D, 999",Produção
+Juliana,50,Engenheiro,10326,"Rua A, 689",Administração
+Carlos,47,Diretor,10557,"Rua A, 367",TI
+Rafael,51,Engenheiro,14749,"Rua E, 497",Produção
+João,40,Engenheiro,14301,"Rua C, 584",Vendas
+Fernanda,26,Gerente,5544,"Rua C, 181",Administração
+Luiza,29,Desenvolvedor,9432,"Rua B, 254",Administração
+Juliana,47,Especialista,3062,"Rua E, 787",Vendas
+Carlos,55,Engenheiro,13634,"Rua A, 710",Recursos Humanos
+Fernanda,39,Engenheiro,13636,"Rua A, 633",TI
+Pedro,32,Diretor,9490,"Rua D, 782",Produção
+Ana,38,Gerente,5023,"Rua E, 990",Produção
